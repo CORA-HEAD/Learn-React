@@ -1,0 +1,15 @@
+.custom-orange{
+    color:orange
+}
+input{
+    width: 100%;
+}
+.item-container{
+    text-align: left;
+}
+.Af-row{
+    margin: 12px 9px;
+}
+.Af-button{
+    min-width: 80px;
+}
