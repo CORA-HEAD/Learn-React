@@ -1,5 +1,5 @@
 function AppName(){
-    return (<h1>Todo React App</h1>
+    return (<h1 className="custom-orange">Todo React App</h1>
     )
 
 }
